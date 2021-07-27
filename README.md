@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 💼 I'm currently working at [Resonate Solutions](https://resonatesolutions.com.au/)
-- 🔭 I’m currently interested in Compilers and Databases 
+- 💼  I'm currently working at [Resonate Solutions](https://resonatesolutions.com.au/)
+- 🔭  I’m currently interested in Compilers and Databases 
 
-- 😄 Pronouns: he/him/they
+- 😄  Pronouns: he/him/they
 
 ---
 
