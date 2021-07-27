@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**BraedonWooding/BraedonWooding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 I'm currently working at [Resonate Solutions](https://resonatesolutions.com.au/)
+- 🔭 I’m currently interested in Compilers and Databases 
 
-Here are some ideas to get you started:
+- 😄 Pronouns: he/him/they
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Recent Projects (last month)
+
+<!-- I could probably auto generate this which would be interesting -->
+
+- [Quaint](https://github.com/BraedonWooding/Quaint) A painting application in Java
+- [ChonkyStateMachine](https://github.com/BraedonWooding/ChonkyStateMachine) A simple state machine in C#
+- [ChonkyReviews](https://github.com/BraedonWooding/ChonkyReviews) A google reviews sandbox/testing mock application
