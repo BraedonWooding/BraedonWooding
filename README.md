@@ -6,7 +6,7 @@
 
 ---
 
-## Recent Projects (last month)
+## Recent Projects
 
 <!-- I could probably auto generate this which would be interesting -->
 
