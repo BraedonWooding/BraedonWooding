@@ -10,6 +10,7 @@
 
 <!-- I could probably auto generate this which would be interesting -->
 
+- [SolarSharp](https://github.com/BraedonWooding/solarsharp) A faster implementation of Lua in C# for greater interop than alternatives (built off moonsharp)
 - [Tau Time](https://github.com/BraedonWooding/Tau-Time) A time math library for Typescript
 - [Quaint](https://github.com/BraedonWooding/Quaint) A painting application in Java
 - [ChonkyStateMachine](https://github.com/BraedonWooding/ChonkyStateMachine) A simple state machine in C#
